@@ -5,6 +5,10 @@ my submission, that's sanrio/kuromi themed, displays the current date, local tim
 <br>
 <br>
 a preview of how the code appears on the neon editor can be found below: <br><br>
-<img width="407" alt="image" src="https://github.com/user-attachments/assets/12bac909-e634-4f9c-99be-76065193fd09" />
+<!-- <img width="407" alt="image" src="https://github.com/user-attachments/assets/12bac909-e634-4f9c-99be-76065193fd09" /> -->
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/43c027c9-e09c-4720-8147-46e16506bc2c" />
+
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/f8b1df3d-ff55-4634-822f-e8a0e523ae9c" />
+
 
 
